@@ -10,3 +10,9 @@ https://chatgpt.com/share/68107fce-753c-8004-af1c-aa9eeaa54960
 
 ## something about the display settings
 - https://blog.csdn.net/qq_23560785/article/details/96306989
+
+
+## some shortcut keys
+
+- [mac shortcut keys](https://liubing.me/article/mac/mac-shortcut-keys.html#%E5%AD%98%E5%82%A8%E6%96%87%E4%BB%B6)
+- cmd+tab:便捷切换桌面
