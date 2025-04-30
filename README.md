@@ -3,7 +3,10 @@
 ## some ssh key settings
 https://chatgpt.com/share/68107fce-753c-8004-af1c-aa9eeaa54960
 
-## some reliabilities
+### some reliabilities
 - https://blog.csdn.net/2302_80130544/article/details/144321281?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-144321281-blog-129340963.235^v43^pc_blog_bottom_relevance_base9&spm=1001.2101.3001.4242.1&utm_relevant_index=3
 
 - https://blog.csdn.net/qq_54351538/article/details/129340963
+
+## something about the display settings
+- https://blog.csdn.net/qq_23560785/article/details/96306989
