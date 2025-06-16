@@ -1,7 +1,7 @@
 # mac_base
 
 ## some ssh key settings
-https://chatgpt.com/share/68107fce-753c-8004-af1c-aa9eeaa54960
+
 
 ### some reliabilities
 - https://blog.csdn.net/2302_80130544/article/details/144321281?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-144321281-blog-129340963.235^v43^pc_blog_bottom_relevance_base9&spm=1001.2101.3001.4242.1&utm_relevant_index=3
